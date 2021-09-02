@@ -1,2 +1,2 @@
-# HappyBaby
-App to track pregnancy progress, using a series of questions that will be accessed by AI with the guidance of experienced senior health professionals.
+# HChampionNurse
+App to connect nursing students as well as junior nurses with the best experienced nurses. The aim is to create the best senior nurses and ultimalty the best hospital management teams in the future.
